@@ -1,0 +1,12 @@
+name: final
+title:
+username: yung0cheng
+account: yung0cheng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12059297
+bundleId: 8653159
+url: https://yung0cheng.shinyapps.io/final/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
