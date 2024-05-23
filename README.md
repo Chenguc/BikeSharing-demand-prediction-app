@@ -1,6 +1,6 @@
 # BikeSharing-demand-prediction-app
 ### App link: https://yung0cheng.shinyapps.io/final/
-#### app demo
+#### App screenshot demo
 <img width="1470" alt="Screen Shot 2024-05-23 at 2 34 15 PM" src="https://github.com/Chenguc/BikeSharing-demand-prediction-app/assets/92613918/d2388ae9-5469-47ca-8b5e-8d9f6b7b8a1d">
 
 The Bike-sharing Demand Prediction App is a dynamic and interactive Shiny application designed to provide detailed weather forecasts and predict bike-sharing demand across various cities. Leveraging real-time weather data from the OpenWeather API and a pre-trained regression model, this app is a valuable tool for urban planners, bike-sharing companies, and data enthusiasts.
