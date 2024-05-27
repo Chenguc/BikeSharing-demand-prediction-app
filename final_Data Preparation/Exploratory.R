@@ -2,7 +2,7 @@
 #install.packages("rlang")
 #install.packages("tidymodels")
 
-PATH 		= "/Users/uc/Desktop/R Code"
+PATH 		= "/Users/uc/Desktop/R Code/final_Data Preparation"
 setwd( PATH )
 
 library(tidymodels)
